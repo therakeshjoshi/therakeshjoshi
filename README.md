@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and Data Science, Android Development using Kotlin, Ethical Hacking.**
 
-- 📝 I regularly write articles on <a href = "Nationscientific.com"> nationscientific.com </a>
-
+- 📝 I regularly write articles on [NationScientific] (NationScientific.com)
 - 💬 Ask me about **C Language, JAVA**
 
 - 📫 How to reach me **rakeshjoshiamravati@gmail.com**
