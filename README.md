@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and Data Science, Android Development using Kotlin, Ethical Hacking.**
 
-- 📝 I regularly write articles on [nationscientific.com](nationscientific.com)
+- 📝 I regularly write articles on <a href = "Nationscientific.com"> nationscientific.com </a>
 
 - 💬 Ask me about **C Language, JAVA**
 
